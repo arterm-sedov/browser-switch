@@ -38,11 +38,6 @@ Choose between agent-browser (Rust) and Playwright CLI (Node.js) for browser aut
 | Speed | ~100ms/action | ~200-300ms |
 | Maturity | New (Vercel) | Mature (Microsoft) |
 
-## Repos in D:/Repo
-
-- `D:/Repo/agent-browser` - Fast Rust CLI
-- `D:/Repo/playwright-cli` - Node.js CLI
-
 ## Examples
 
 ### AI Agent Task (agent-browser)
