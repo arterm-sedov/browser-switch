@@ -36,5 +36,3 @@ git clone https://github.com/arterm-sedov/browser-switch ~/.agents/skills/browse
 
 - [agent-browser](https://github.com/vercel-labs/agent-browser)
 - [playwright-cli](https://github.com/microsoft/playwright-cli)
-
-Both are cloned in D:/Repo for local use.
